@@ -8,5 +8,9 @@
    Accuracy: 70.98%   
 
 3. Polynomial Regression                                                                                    
-    Dataset: https://www.kaggle.com/usda/a-year-of-pumpkin-prices                                                        
-    Accuracy: 77.83%                                                               
+   Dataset: https://www.kaggle.com/usda/a-year-of-pumpkin-prices                                                        
+   Accuracy: 77.83% 
+    
+4. Support Vector Regression                                                                                               
+   Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                               
+   Accuracy: 81.01%                      
