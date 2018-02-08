@@ -18,3 +18,7 @@
 5. Support Vector Regression                                                                                               
    Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                               
    Accuracy: 83.09%                      
+ 
+6. Random Forest Regression                                                                                               
+   Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                               
+   Accuracy: 87.83%     
