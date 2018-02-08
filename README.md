@@ -5,12 +5,16 @@
    
 2. Multiple Linear Regression                                                                    
    Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                                                     
-   Accuracy: 70.98%   
+   Accuracy: 69.48%   
 
 3. Polynomial Regression                                                                                    
    Dataset: https://www.kaggle.com/usda/a-year-of-pumpkin-prices                                                        
    Accuracy: 77.83% 
-    
-4. Support Vector Regression                                                                                               
+   
+4. Decision Tree Regression                                                                                               
    Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                               
-   Accuracy: 81.01%                      
+   Accuracy: 77.41%                         
+
+5. Support Vector Regression                                                                                               
+   Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                               
+   Accuracy: 83.09%                      
