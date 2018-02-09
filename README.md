@@ -1,4 +1,5 @@
 # Machine Learning
+REGRESSION MODELS
 1. Simple Linear Regression                                                         
    Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                                                        
    Accuracy: 50.31%
@@ -21,4 +22,9 @@
  
 6. Random Forest Regression                                                                                               
    Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction                               
-   Accuracy: 87.83%     
+   Accuracy: 87.83%
+   
+CLASSIFICATION MODELS
+1. Logistic Regression                                                         
+   Dataset: https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking                                  
+   Accuracy: 50.31%
