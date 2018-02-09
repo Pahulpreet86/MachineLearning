@@ -27,4 +27,4 @@ REGRESSION MODELS
 CLASSIFICATION MODELS
 1. Logistic Regression                                                         
    Dataset: https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking                                  
-   Accuracy: 50.31%
+   Accuracy: 88.89%
